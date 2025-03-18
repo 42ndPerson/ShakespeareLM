@@ -1,0 +1,1 @@
+I wanted to play around with transformers in Apple's MLX framework and build a toy language model as a base for some future projects.  I adapted Andrej Karpathy's "[Let's build GPT: from scratch, in code, spelled out.](https://youtu.be/kCc8FmEb1nY?si=76ZvaqXeMoCcN80n)" from PyTorch to MLX, and I used his Tiny Shakespeare dataset.
